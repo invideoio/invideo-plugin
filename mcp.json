@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "invideo": {
+      "type": "http",
+      "url": "https://mcp-v2.invideo.io/mcp"
+    }
+  }
+}
