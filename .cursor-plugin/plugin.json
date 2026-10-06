@@ -11,7 +11,7 @@
     "email": "dev@invideo.io"
   },
   "homepage": "https://invideo.io",
-  "repository": "https://github.com/invideoio/invideo-cursor-plugin",
+  "repository": "https://github.com/invideoio/invideo-plugin",
   "license": "MIT",
   "logo": "assets/logo.png",
   "keywords": [
